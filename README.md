@@ -1,4 +1,17 @@
-# skill-scout
+<p align="center">
+  <img src="assets/banner.svg" alt="Skill Scout. One command, and Claude Code finds and installs the right skills for any project." width="100%">
+</p>
+
+<p align="center">
+  <img alt="One command" src="https://img.shields.io/badge/setup-one%20command-3fe0c5?style=flat-square&labelColor=0a0e14"> <img alt="500K+ skills" src="https://img.shields.io/badge/searches-500K%2B%20skills-3fe0c5?style=flat-square&labelColor=0a0e14"> <img alt="For Claude Code" src="https://img.shields.io/badge/for-Claude%20Code-a98bff?style=flat-square&labelColor=0a0e14"> <img alt="Windows, macOS, Linux" src="https://img.shields.io/badge/Windows%20%C2%B7%20macOS%20%C2%B7%20Linux-a98bff?style=flat-square&labelColor=0a0e14"> <img alt="Uninstaller included" src="https://img.shields.io/badge/uninstaller-included-f5c451?style=flat-square&labelColor=0a0e14"> <a href="https://github.com/amirh3sam/skill-scout/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/amirh3sam/skill-scout?style=flat-square&labelColor=0a0e14&color=f5c451"></a>
+</p>
+
+<p align="center">
+  <a href="#install"><b>Install</b></a> ·
+  <a href="#what-it-does">What it does</a> ·
+  <a href="#how-you-use-it">How you use it</a> ·
+  <a href="#uninstall">Uninstall</a>
+</p>
 
 **One command. Claude Code finds the right skills for every project.**
 
@@ -98,3 +111,9 @@ Pairs well with **[idea-council](https://github.com/amirh3sam/idea-council)**: c
 Made by **[AmirHesam Tech](https://amirhesamtech.com)** · TikTok **[@techwithamirh3sam](https://www.tiktok.com/@techwithamirh3sam)**
 
 If this saved you time, give it a ⭐. It helps other people find it.
+
+## About
+
+Made by **[AmirHesam Tech](https://amirhesamtech.com)**. More tech content on TikTok: [@techwithamirh3sam](https://www.tiktok.com/@techwithamirh3sam).
+
+If this saved you some time, please give it a star. It helps other people find it.
